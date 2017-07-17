@@ -1,2 +1,0 @@
-class MyPortafoliosController < ApplicationController
-end

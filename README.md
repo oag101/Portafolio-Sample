@@ -1,12 +1,12 @@
-# Portafolio Application
+# Portfolio Application
 
-> This is a Ruby on Rails 5 application that allows users to create their own protafolios.
+> This is a Ruby on Rails 5 application that allows users to create their own protfolios.
 
 ### Features
 
 - Real time chat engine for comments
 - Blog 
-- Portafolio
+- Portfolio
 - Drag and drop interface
 
 ### Code Example
